@@ -47,6 +47,7 @@ p2p-peer-address = peer1-fio.eosphere.io:9876
 p2p-peer-address = fiomainnet.everstake.one:7770
 p2p-peer-address = fio.eosrio.io:8122
 p2p-peer-address = fio.acherontrading.com:9876
+p2p-peer-address = fio.eos.barcelona:3876
 ```
 
 ## API endpoints
@@ -72,4 +73,5 @@ http://fioapi.nodeone.io:6881
 https://fio.eosphere.io
 https://fio.eosrio.io
 https://fio.acherontrading.com
+https://fio.eos.barcelona
 ```
