@@ -30,6 +30,10 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
   }
 }
 ```
+## Chain ID
+```
+c3d82a6c50ce5887d4a86eec5e6043317b4a3043fdf27a502ab43438822e1e55
+```
 
 ## P2P endpoints
 
