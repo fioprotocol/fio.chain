@@ -42,6 +42,10 @@ p2p-peer-address = 34.232.117.155:9876
 p2p-peer-address = fio.eu.eosamsterdam.net:9956
 p2p-peer-address = fio.eosdac.io:6876
 p2p-peer-address = fiopeer1.nodeone.io:6981
+p2p-peer-address = peer.fio.alohaeos.com:9876
+p2p-peer-address = peer1-fio.eosphere.io:9876
+p2p-peer-address = fiomainnet.everstake.one:7770
+p2p-peer-address = fio.eosrio.io:8122
 ```
 
 ## API endpoints
@@ -64,4 +68,6 @@ TBD
 https://fio.eu.eosamsterdam.net
 https://fio.eosdac.io
 http://fioapi.nodeone.io:6881
+https://fio.eosphere.io
+https://fio.eosrio.io
 ```
