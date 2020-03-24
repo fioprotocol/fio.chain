@@ -51,6 +51,7 @@ p2p-peer-address = fio.eosrio.io:8122
 p2p-peer-address = fio.acherontrading.com:9876
 p2p-peer-address = fio.eos.barcelona:3876
 p2p-peer-address = p2p.fio.eosdetroit.io:1337
+p2p-peer-address = p2p.fio.zenblocks.io:9866
 ```
 
 ## API endpoints
@@ -79,4 +80,5 @@ https://fio.eosrio.io
 https://fio.acherontrading.com
 https://fio.eos.barcelona
 https://api.fio.eosdetroit.io
+https://fio.zenblocks.io
 ```
