@@ -25,6 +25,7 @@ p2p-peer-address = fiomainnet.everstake.one:7770
 p2p-peer-address = fio.eosrio.io:8122
 p2p-peer-address = fio.acherontrading.com:9876
 p2p-peer-address = fio.eos.barcelona:3876
+p2p-peer-address = p2p.fio.eosdetroit.io:1337
 ```
 
 ## API endpoints
@@ -33,6 +34,7 @@ p2p-peer-address = fio.eos.barcelona:3876
 
 ```
 http://34.232.117.155:8888
+http://api.fio.eosdetroit.io
 ```
 
 ### Hyperion
@@ -51,4 +53,5 @@ https://fio.eosphere.io
 https://fio.eosrio.io
 https://fio.acherontrading.com
 https://fio.eos.barcelona
+https://api.fio.eosdetroit.io
 ```
