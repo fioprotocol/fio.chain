@@ -54,6 +54,7 @@ p2p-peer-address = p2p.fio.eosdetroit.io:1337
 p2p-peer-address = p2p.fio.zenblocks.io:9866
 p2p-peer-address = fio.blockpane.com:9876
 p2p-peer-address = p2p.fioprotocol.io:3856
+p2p-peer-address = fio.greymass.com:49876
 ```
 
 ## API endpoints
@@ -63,6 +64,7 @@ p2p-peer-address = p2p.fioprotocol.io:3856
 ```
 http://34.232.117.155:8888
 http://api.fio.eosdetroit.io
+https://fio.greymass.com
 ```
 
 ### Hyperion
@@ -83,4 +85,5 @@ https://fio.acherontrading.com
 https://fio.eos.barcelona
 https://api.fio.eosdetroit.io
 https://fio.zenblocks.io
+https://fio.greymass.com
 ```
