@@ -36,7 +36,7 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
 ```
 p2p-peer-address = 34.232.117.155:9876
 p2p-peer-address = fio.eu.eosamsterdam.net:9956
-
+p2p-peer-address = fio.eosdac.io:6876
 ```
 
 ## API endpoints
@@ -57,4 +57,5 @@ TBD
 
 ```
 https://fio.eu.eosamsterdam.net
+https://fio.eosdac.io
 ```
