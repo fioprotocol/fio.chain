@@ -56,10 +56,11 @@ p2p-peer-address = fio.greymass.com:49876 # Greymass (bp@greymass)
 p2p-peer-address = fio.eosusa.news:9886 # EOSUSA (bp@eosusa)
 p2p-peer-address = p2p.fioprotocol.io:3856  # Foundation for Interwallet Operability
 p2p-peer-address = p2p.fio.eosargentina.io:1984 # EOS Argentina (fio@eosargentina)
+p2p-peer-address = fio.cryptolions.io:7987 # CryptoLions (bp@cryptolions)
 ```
 
 ## API endpoints
-
+  
 ### History v1
 
 ```
@@ -90,4 +91,5 @@ https://api.fio.alohaeos.com
 https://fio.greymass.com
 https://fio.eosusa.news
 https://fio.eosargentina.io
+https://fio.cryptolions.io
 ```
