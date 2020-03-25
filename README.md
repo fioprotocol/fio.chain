@@ -50,7 +50,7 @@ p2p-peer-address = fio.eosrio.io:8122
 p2p-peer-address = fio.acherontrading.com:9876
 p2p-peer-address = fio.eos.barcelona:3876
 p2p-peer-address = p2p.fio.eosdetroit.io:1337
-p2p-peer-address = p2p.fio.zenblocks.io:9866
+p2p-peer-address = p2p.fio.zenblocks.io:9866 # ZenBlocks
 p2p-peer-address = fio.blockpane.com:9876 # Blockpane (not a producer)
 p2p-peer-address = p2p.fioprotocol.io:3856  # Foundation for Interwallet Operability
 ```
