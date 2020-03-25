@@ -2,6 +2,4 @@
 
 ## by EOS Amsterdam
 
-Chronicle traces and table deltas output (27MB compressed, about 590MB plain text): https://transfer.sh/TqNUO/fio_launch_dump.gz
-
-Tab-separated LightAPI tables with accounts, keys, token balances, and code hashes: https://transfer.sh/JVsGw/lightapi_fio_launch.tar.gz
+Tab-separated LightAPI tables with accounts, keys, token balances and code hashes, as of block number *105304* on *2020-03-25 14:42:52* : https://transfer.sh/5vj9B/lightapi_fio_launch.tar.gz
