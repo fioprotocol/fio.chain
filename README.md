@@ -40,7 +40,7 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
 
 ```
 p2p-peer-address = 34.232.117.155:9876
-p2p-peer-address = fio.eu.eosamsterdam.net:9956
+p2p-peer-address = fio.eu.eosamsterdam.net:9956 # (bp@eosamsterdam)
 p2p-peer-address = fio.eosdac.io:6876 # eosDAC (bp@thedac)
 p2p-peer-address = fiopeer1.nodeone.io:6981 # NodeOne (fionodeonebp@nodeone)
 p2p-peer-address = peer.fio.alohaeos.com:9876 # Aloha EOS (bp@alohaeos)
