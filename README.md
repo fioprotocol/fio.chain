@@ -44,7 +44,7 @@ p2p-peer-address = fio.eu.eosamsterdam.net:9956 # (bp@eosamsterdam)
 p2p-peer-address = fio.eosdac.io:6876 # eosDAC (bp@thedac)
 p2p-peer-address = fiopeer1.nodeone.io:6981 # NodeOne (fionodeonebp@nodeone)
 p2p-peer-address = peer.fio.alohaeos.com:9876 # Aloha EOS (bp@alohaeos)
-p2p-peer-address = peer1-fio.eosphere.io:9876
+p2p-peer-address = peer1-fio.eosphere.io:9876 # EOSphere (bp@eosphere)
 p2p-peer-address = fiomainnet.everstake.one:7770 # Everstake (bp@everstake)
 p2p-peer-address = fio.eosrio.io:8122 # EOS Rio (br@eosrio)
 p2p-peer-address = fio.acherontrading.com:9876 # Acheron Trading (bp@acherontrading)
@@ -67,6 +67,7 @@ p2p-peer-address = fio.cryptolions.io:7987 # CryptoLions (bp@cryptolions)
 http://34.232.117.155:8888
 http://api.fio.eosdetroit.io
 https://fio.greymass.com
+https://fio.eosphere.io
 ```
 
 ### Hyperion
