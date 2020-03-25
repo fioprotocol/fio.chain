@@ -58,6 +58,7 @@ p2p-peer-address = p2p.fioprotocol.io:3856  # Foundation for Interwallet Operabi
 p2p-peer-address = p2p.fio.eosargentina.io:1984 # EOS Argentina (fio@eosargentina)
 p2p-peer-address = fio.cryptolions.io:7987 # CryptoLions (bp@cryptolions)
 p2p-peer-address = peer.fio-mainnet.eosblocksmith.io:8090 # Blocksmith ( blocksmith@blocksmith )
+p2p-peer-address = p2p.fio.services:9876 # Gandalf ( gandalf@grey )
 ```
 
 ## API endpoints
