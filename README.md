@@ -63,6 +63,7 @@ p2p-peer-address = peer.fio.currencyhub.io:9876 # Currency Hub (bp@currencyhub)
 p2p-peer-address = fio.mycryptoapi.com:9876 # MyCrypto (bp@mycrypto)
 p2p-peer-address = fiop2p.eoscannon.io:6789 # EOSCannon (bp@eoscannon)
 p2p-peer-address = fio.eosdublin.io:9976 # eosDublin (bp@eosdublin)
+p2p-peer-address = fio.guarda.co:9976 #Guarda Wallet (bp@guardaw)
 ```
 
 ## API endpoints
