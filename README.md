@@ -61,6 +61,7 @@ p2p-peer-address = peer.fio-mainnet.eosblocksmith.io:8090 # Blocksmith ( blocksm
 p2p-peer-address = p2p.fio.services:9876 # Gandalf ( gandalf@grey )
 p2p-peer-address = peer.fio.currencyhub.io:9876 # Currency Hub (bp@currencyhub)
 p2p-peer-address = fio.mycryptoapi.com:9876 # MyCrypto (bp@mycrypto)
+p2p-peer-address = fiop2p.eoscannon.io:6789 # EOSCannon (bp@eoscannon)
 ```
 
 ## API endpoints
@@ -99,4 +100,5 @@ https://fio.eosargentina.io
 https://fio.cryptolions.io
 https://fio-mainnet.eosblocksmith.io
 https://api.fio.currencyhub.io
+https://fio.eoscannon.io
 ```
