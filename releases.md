@@ -1,4 +1,18 @@
-v1.0.1
+## 1.0.2
+
+Date: 2020-04-08<br>
+Contract: fio.system 	<br>
+Hash: 89295851f17ca40c19cba706eb38b71a7cb3bc3f6d13b442a0dcb666e9c437c8<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
+
+Date: 2020-04-08<br>
+Contract: fio.treasury<br>
+Hash: 49ef902e5df3f1cc8993ae6cd9119736f6c249ac0fb8e9e5bdf5b3f65973d49b<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
+
+## v1.0.1
 
 Date: 2020-03-31<br>
 Contract: eosio.bios<br>
