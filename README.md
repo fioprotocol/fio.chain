@@ -65,7 +65,7 @@ p2p-peer-address = fiop2p.eoscannon.io:6789 # EOSCannon (bp@eoscannon)
 p2p-peer-address = fio.eosdublin.io:9976 # eosDublin (bp@eosdublin)
 p2p-peer-address = fio.guarda.co:9976 #Guarda Wallet (bp@guardaw)
 p2p-peer-address = fio.eossweden.org:9376 # sw/eden (bp@fiosweden)
-p2p-peer-address = fio.maltablock.org:9876 * Maltablock (bp@maltablock)
+p2p-peer-address = fio.maltablock.org:9876 # Maltablock (bp@maltablock)
 ```
 
 ## API endpoints
