@@ -8,7 +8,7 @@ Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
 
 Date: 2020-04-08<br>
 Contract: fio.treasury<br>
-Hash: 49ef902e5df3f1cc8993ae6cd9119736f6c249ac0fb8e9e5bdf5b3f65973d49b<br>
+Hash: 10e62b1e011d8fb98291b26ec109bbd69ecd284136e8a838e091626ce0678fee<br>
 CDT: fio.cdt (1.5.x)<br>
 Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
 
