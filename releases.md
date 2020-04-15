@@ -10,7 +10,7 @@ Date: 2020-04-08<br>
 Contract: fio.treasury<br>
 Hash: 10e62b1e011d8fb98291b26ec109bbd69ecd284136e8a838e091626ce0678fee<br>
 CDT: fio.cdt (1.5.x)<br>
-Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
+Git Commit: 77d8c9e2dcf3306e80fdcffc3f2e0fc718ff098f<br><br>
 
 ## v1.0.1
 
