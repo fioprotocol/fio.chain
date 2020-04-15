@@ -6,7 +6,7 @@ Hash: 89295851f17ca40c19cba706eb38b71a7cb3bc3f6d13b442a0dcb666e9c437c8<br>
 CDT: fio.cdt (1.5.x)<br>
 Git Commit: 0aadd377c23dc3465fb2757ff66d41e13cbcd616<br><br>
 
-Date: 2020-04-08<br>
+Date: 2020-04-13<br>
 Contract: fio.treasury<br>
 Hash: 10e62b1e011d8fb98291b26ec109bbd69ecd284136e8a838e091626ce0678fee<br>
 CDT: fio.cdt (1.5.x)<br>
