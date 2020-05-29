@@ -8,9 +8,9 @@ Git Commit: baffcdf65ad58829656e74fd1e1b20f10c193fe4<br><br>
 
 Date: 2020-05-18<br>
 Contract: fio.fee 	<br>
-Hash: dfd55a03dcdd8b929eecb6cd0e2d189ea6fe0a5b83c635e4a3e3937cf20c57b0<br>
+Hash: 27dc41df854f8cb2e374b1456672e75bd7c08553b03cdd1a2a27b3650a1a6be5<br>
 CDT: fio.cdt (1.5.x)<br>
-Git Commit: baffcdf65ad58829656e74fd1e1b20f10c193fe4<br><br>
+Git Commit: fa4b203d2752f3d7cb4eb002109d54cb6b73115e<br><br>
 
 ## 1.0.2
 
