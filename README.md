@@ -78,12 +78,14 @@ http://api.fio.eosdetroit.io
 https://fio.greymass.com
 https://fio.eosphere.io
 https://fio.eossweden.org
+https://fio.eosphere.io
 ```
 
 ### Hyperion
 
 ```
 https://fio.eossweden.org
+https://fio.eosphere.io
 ```
 
 ### EOSIO API
