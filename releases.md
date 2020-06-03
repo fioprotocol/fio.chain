@@ -1,3 +1,47 @@
+## 1.1.0
+
+Date: 2020-06-02<br>
+Contract: fio.address 	<br>
+Hash: 5d18837b807b9b7e99cad9cfd9c73af99b293e50a6d90450716f645782197de9<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.fee 	<br>
+Hash: 14c1106e8491bd42cea2a94c779c33c60a838aabe83f353499d0e1a334df6cdb<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.request.obt 	<br>
+Hash: 293fece8039ec44cea9beb45fb2d5abd3b1ac2c511ae7a41004ce6f40e7ff55a<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.system 	<br>
+Hash: 2f12cee25b3347074e1c27af6daf4badf283ff14ac5dc0b10567f5e591aba54b<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.token 	<br>
+Hash: cad03050846f4b1b3d73de76723153a15d8e2a13852d3ecf6fcc8aae9f2f08df<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.tpid 	<br>
+Hash: 581155e4b3d7b7cd140f4455e5fdd7cae987c0d488aef79d947aa4014594a90d<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
+Contract: fio.treasury 	<br>
+Hash: fe38917f22521a03c5408313d4d56aac6c3fc35fabb242baa95e1361b89da12e<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
 ## 1.0.3
 
 Date: 2020-05-18<br>
