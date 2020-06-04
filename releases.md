@@ -7,6 +7,12 @@ CDT: fio.cdt (1.5.x)<br>
 Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
 
 Date: 2020-06-02<br>
+Contract: fio.msig	<br>
+Hash: f9eaecc20eeea9705e5e5a81777244281a4770e8ff8b377d76d032ad3163ca81<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: f02d9b055583a486831801785050f33f7f4b6210<br><br>
+
+Date: 2020-06-02<br>
 Contract: fio.fee 	<br>
 Hash: 14c1106e8491bd42cea2a94c779c33c60a838aabe83f353499d0e1a334df6cdb<br>
 CDT: fio.cdt (1.5.x)<br>
