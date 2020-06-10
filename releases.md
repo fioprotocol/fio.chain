@@ -1,3 +1,11 @@
+## 1.0.3
+
+Date: 2020-06-05<br>
+Contract: fio.system 	<br>
+Hash: 036858a332b2dc0e9b23f0d1eb9c2b33d4231596c86abd83cc544ed54d5371b9<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 910106ec34d12d20ba6c7df34711281161474d2e<br><br>
+
 ## 1.0.2
 
 Date: 2020-04-08<br>
