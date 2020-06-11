@@ -1,3 +1,17 @@
+## 1.0.4
+
+Date: 2020-06-11<br>
+Contract: fio.address 	<br>
+Hash: e85c4d3de8aad85142c15bcedb03ed56cea9e31419073f4f2a9d110a9d758144<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: ab8dc736b6dc1830a9be8b36a2e3460b29d4cb0b<br><br>
+
+Date: 2020-06-11<br>
+Contract: fio.fee 	<br>
+Hash: 528fc05c437687b96c1bf18fed408c1abc01858095a3063a1a170ab2bcd6a288<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: ab8dc736b6dc1830a9be8b36a2e3460b29d4cb0b<br><br>
+
 ## 1.0.3
 
 Date: 2020-06-05<br>
