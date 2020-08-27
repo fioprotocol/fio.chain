@@ -7,6 +7,13 @@ CDT: fio.cdt (1.5.x)<br>
 Git Commit: 869227430eec58a23f8b1c5cc66d82d1eb24c4b0<br>
 Proposal:<br><br>
 
+## 1.0.6
+Date: 2020-08-27<br>
+Contract: fio.address 	<br>
+Hash: 5fa536edf2cc63eae96691e7d7286de82162c0b80ee0d8b27edff5b7a92462a2<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: <br>
+Proposal:<br><br>
 
 ## 1.0.5
 
