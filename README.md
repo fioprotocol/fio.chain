@@ -64,7 +64,7 @@ p2p-peer-address = fio.mycryptoapi.com:9876 # MyCrypto (bp@mycrypto)
 p2p-peer-address = fiop2p.eoscannon.io:6789 # EOSCannon (bp@eoscannon)
 p2p-peer-address = fio.eosdublin.io:9976 # eosDublin (bp@eosdublin)
 p2p-peer-address = fio.guarda.co:9976 #Guarda Wallet (bp@guardaw)
-p2p-peer-address = fio.eossweden.org:9376 # sw/eden (bp@fiosweden)
+p2p-peer-address = p2p.fiosweden.org:9376 # sw/eden (bp@fiosweden)
 p2p-peer-address = fio.maltablock.org:9876 # Maltablock (bp@maltablock)
 ```
 
@@ -77,14 +77,14 @@ http://34.232.117.155:8888
 http://api.fio.eosdetroit.io
 https://fio.greymass.com
 https://fio.eosphere.io
-https://fio.eossweden.org
+https://api.fiosweden.org
 https://fio.eosphere.io
 ```
 
 ### Hyperion
 
 ```
-https://fio.eossweden.org
+https://api.fiosweden.org
 https://fio.eosphere.io
 ```
 
@@ -109,6 +109,6 @@ https://fio-mainnet.eosblocksmith.io
 https://api.fio.currencyhub.io
 https://fio.eoscannon.io
 https://fio.eosdublin.io
-https://fio.eossweden.org
+https://api.fiosweden.org
 https://fio.maltablock.org/
 ```
