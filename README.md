@@ -73,8 +73,7 @@ p2p-peer-address = fio.maltablock.org:9876 # Maltablock (bp@maltablock)
 ### History v1
 
 ```
-http://34.232.117.155:8888
-http://api.fio.eosdetroit.io
+https://api.fio.eosdetroit.io
 https://fio.greymass.com
 https://fio.eosphere.io
 https://api.fiosweden.org
