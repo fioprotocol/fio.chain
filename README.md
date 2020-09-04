@@ -88,7 +88,7 @@ https://api.fiosweden.org
 https://fio.eosphere.io
 ```
 
-### EOSIO API
+### FIO API
 
 ```
 https://fio.eu.eosamsterdam.net
