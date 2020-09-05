@@ -110,4 +110,5 @@ https://fio.eoscannon.io
 https://fio.eosdublin.io
 https://api.fiosweden.org
 https://fio.maltablock.org/
+https://api.fio.services
 ```
