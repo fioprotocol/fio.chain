@@ -66,6 +66,8 @@ p2p-peer-address = fio.eosdublin.io:9976 # eosDublin (bp@eosdublin)
 p2p-peer-address = fio.guarda.co:9976 #Guarda Wallet (bp@guardaw)
 p2p-peer-address = p2p.fiosweden.org:9376 # sw/eden (bp@fiosweden)
 p2p-peer-address = fio.maltablock.org:9876 # Maltablock (bp@maltablock)
+p2p-peer-address = p2p1.fio.greeneosio.com:9876 # GreenEOSIO (bp@greeneosio)
+p2p-peer-address = fiop2p.ledgerwise.io:25877 # Ledgerwise (bp@ledgerwise)
 ```
 
 ## API endpoints
@@ -110,4 +112,6 @@ https://fio.eoscannon.io
 https://fio.eosdublin.io
 https://api.fiosweden.org
 https://fio.maltablock.org/
+https://api.fio.greeneosio.com
+https://fioapi.ledgerwise.io
 ```
