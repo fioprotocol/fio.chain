@@ -94,7 +94,7 @@ https://fio.eosphere.io
 ```
 https://fio.eu.eosamsterdam.net
 https://fio.eosdac.io
-http://fioapi.nodeone.io:6881
+https://fioapi.nodeone.io
 https://fio.eosphere.io
 https://fio.eosrio.io
 https://fio.acherontrading.com
@@ -114,4 +114,5 @@ https://api.fiosweden.org
 https://fio.maltablock.org/
 https://api.fio.greeneosio.com
 https://fioapi.ledgerwise.io
+https://api.fio.services
 ```
