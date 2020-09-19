@@ -52,6 +52,7 @@ p2p-peer-address = fiop2p.eos.barcelona:3876 # eosBarcelona (bp@eosbarcelona)
 p2p-peer-address = p2p.fio.eosdetroit.io:1337 # EOS Detroit (eosio@detroit)
 p2p-peer-address = p2p.fio.zenblocks.io:9866 # ZenBlocks (bp@zenblocks)
 p2p-peer-address = fio.blockpane.com:9876 # Blockpane (not a producer)
+p2p-peer-address = p2p.fio.genereos.io:9876 # (bp@genereos)
 p2p-peer-address = fio.greymass.com:49876 # Greymass (bp@greymass)
 p2p-peer-address = fio.eosusa.news:9886 # EOSUSA (bp@eosusa)
 p2p-peer-address = p2p.fioprotocol.io:3856  # Foundation for Interwallet Operability
@@ -103,6 +104,7 @@ https://api.fio.eosdetroit.io
 https://fio.zenblocks.io
 https://api.fio.alohaeos.com
 https://fio.greymass.com
+https://fio.genereos.io
 https://fio.eosusa.news
 https://fio.eosargentina.io
 https://fio.cryptolions.io
