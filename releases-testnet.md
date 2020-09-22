@@ -1,5 +1,23 @@
 # Testnet Release History
 
+## 2.1.0
+<b>Contract:</b> eosio.msig <br>
+<b>Hash:</b> f9eaecc20eeea9705e5e5a81777244281a4770e8ff8b377d76d032ad3163ca81 <br>
+<b>Contract:</b> fio.address <br>
+<b>Hash:</b> b11135e0a01b64cf58e41e6767ca557f704b41fca0d5dde2e3ec89a5ecde4eaf <br>
+<b>Contract:</b> fio.fee <br>
+<b>Hash:</b> 3f7752d601e03b1631ed25b484394aa8dc1fa7343416715d6e53b1ca49be9856 <br>
+<b>Contract:</b> fio.request.obt <br>
+<b>Hash:</b> 9afb04a20da453208d68a08e842984933d7fa67277ae8c556c7bdfd266e56095 <br>
+<b>Contract:</b> fio.system <br>
+<b>Hash:</b> 4023a1437292a8994a274d53ecabfa1a88f50740da8bc270ab260e252b5e6ebb <br>
+<b>Contract:</b> fio.token <br>
+<b>Hash:</b> cad03050846f4b1b3d73de76723153a15d8e2a13852d3ecf6fcc8aae9f2f08df <br>
+<b>Contract:</b> fio.tpid <br>
+<b>Hash:</b> 581155e4b3d7b7cd140f4455e5fdd7cae987c0d488aef79d947aa4014594a90d <br>
+<b>Contract:</b> fio.treasury <br>
+<b>Hash:</b> fe38917f22521a03c5408313d4d56aac6c3fc35fabb242baa95e1361b89da12e <br>
+
 ## 2.0.1
 <b>Contract:</b> fio.address <br>
 <b>Hash:</b> 5fa536edf2cc63eae96691e7d7286de82162c0b80ee0d8b27edff5b7a92462a2 <br>
