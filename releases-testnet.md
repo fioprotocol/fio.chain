@@ -4,7 +4,7 @@
 <b>Contract:</b> eosio.msig <br>
 <b>Hash:</b> f9eaecc20eeea9705e5e5a81777244281a4770e8ff8b377d76d032ad3163ca81 <br>
 <b>Contract:</b> fio.address <br>
-<b>Hash:</b> b11135e0a01b64cf58e41e6767ca557f704b41fca0d5dde2e3ec89a5ecde4eaf <br>
+<b>Hash:</b> 7c4aba5e68dd71062c7a7c353e780b8a35f42b39cbfcae189923e89e37ce1941 <br>
 <b>Contract:</b> fio.fee <br>
 <b>Hash:</b> 3f7752d601e03b1631ed25b484394aa8dc1fa7343416715d6e53b1ca49be9856 <br>
 <b>Contract:</b> fio.request.obt <br>
