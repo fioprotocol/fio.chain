@@ -1,3 +1,61 @@
+## 2.1.0
+
+Date: 2020-09-07<br>
+Contract: fio.msig 	<br>
+Hash: f9eaecc20eeea9705e5e5a81777244281a4770e8ff8b377d76d032ad3163ca81<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.address 	<br>
+Hash: 7c4aba5e68dd71062c7a7c353e780b8a35f42b39cbfcae189923e89e37ce1941<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.fee 	<br>
+Hash: 3f7752d601e03b1631ed25b484394aa8dc1fa7343416715d6e53b1ca49be9856<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.reqobt 	<br>
+Hash: 9afb04a20da453208d68a08e842984933d7fa67277ae8c556c7bdfd266e56095<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.system 	<br>
+Hash: 4023a1437292a8994a274d53ecabfa1a88f50740da8bc270ab260e252b5e6ebb<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.token 	<br>
+Hash: cad03050846f4b1b3d73de76723153a15d8e2a13852d3ecf6fcc8aae9f2f08df<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.tpid 	<br>
+Hash: 581155e4b3d7b7cd140f4455e5fdd7cae987c0d488aef79d947aa4014594a90d<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
+Date: 2020-09-07<br>
+Contract: fio.treasury 	<br>
+Hash: fe38917f22521a03c5408313d4d56aac6c3fc35fabb242baa95e1361b89da12e<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 3e71133159e0a465505c49df43bae89b914ff1c9<br>
+Proposal:<br><br>
+
 ## 2.0.0
 
 Date: 2020-08-03<br>
@@ -6,7 +64,6 @@ Hash: b7b9d86f4a47ae908752779ae4e23fde1f84b3008816b420f34185ceb9442a10<br>
 CDT: fio.cdt (1.5.x)<br>
 Git Commit: 869227430eec58a23f8b1c5cc66d82d1eb24c4b0<br>
 Proposal:<br><br>
-
 
 ## 1.0.5
 
