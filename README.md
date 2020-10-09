@@ -86,6 +86,7 @@ https://fio.eosphere.io
 ### Hyperion
 
 ```
+https://hyperion.fio.eosdetroit.io
 https://api.fiosweden.org
 https://fio.eosphere.io
 ```
