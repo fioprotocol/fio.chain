@@ -118,4 +118,6 @@ https://fio.maltablock.org/
 https://api.fio.greeneosio.com
 https://fioapi.ledgerwise.io
 https://api.fio.services
+https://fio.eostribe.io
+https://fio-za.eostribe.io
 ```
