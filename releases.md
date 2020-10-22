@@ -1,3 +1,40 @@
+## 2.2.0
+
+Date: 2020-10-20<br>
+Contract: fio.address 	<br>
+Hash: cf2f99172a552222ca385cb64ed5eee867c3bbedc1e08e7e6d4f99f65f17ca36<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 86d50c273467d9d90b0ed674af1615b32c5a8dd7<br>
+Proposal:<br><br>
+
+Date: 2020-10-20<br>
+Contract: fio.fee 	<br>
+Hash: 564c5023ddd4916517fad8cf0fda502a1a8cd64af32f8a4a4c45b6d6ee60cda4<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 86d50c273467d9d90b0ed674af1615b32c5a8dd7<br>
+Proposal:<br><br>
+
+Date: 2020-10-20<br>
+Contract: fio.reqobt 	<br>
+Hash: 939181723ceae3c6b71a7a37dae90a931808035be49512958bb1d54aeb2a4b19<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 86d50c273467d9d90b0ed674af1615b32c5a8dd7<br>
+Proposal:<br><br>
+
+Date: 2020-10-20<br>
+Contract: fio.system 	<br>
+Hash: 024343655e89c728f96d37f68570f24209ac991aa7801c94e083652c827e9aa6<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 86d50c273467d9d90b0ed674af1615b32c5a8dd7<br>
+Proposal:<br><br>
+
+Date: 2020-10-20<br>
+Contract: fio.token 	<br>
+Hash: 6909cc89e46c118b7d5cc205e281b69397c77d4f9c675fb389a5fa3982e1503e<br>
+CDT: fio.cdt (1.5.x)<br>
+Git Commit: 86d50c273467d9d90b0ed674af1615b32c5a8dd7<br>
+Proposal:<br><br>
+
 ## 2.1.0
 
 Date: 2020-09-07<br>
