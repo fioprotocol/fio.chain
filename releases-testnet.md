@@ -1,5 +1,18 @@
 # Testnet Release History
 
+## 2.2.0
+
+Contract: fio.address 	<br>
+Hash: cf2f99172a552222ca385cb64ed5eee867c3bbedc1e08e7e6d4f99f65f17ca36<br>
+Contract: fio.fee 	<br>
+Hash: 564c5023ddd4916517fad8cf0fda502a1a8cd64af32f8a4a4c45b6d6ee60cda4<br>
+Contract: fio.reqobt 	<br>
+Hash: 939181723ceae3c6b71a7a37dae90a931808035be49512958bb1d54aeb2a4b19<br>
+Contract: fio.system 	<br>
+Hash: 024343655e89c728f96d37f68570f24209ac991aa7801c94e083652c827e9aa6<br>
+Contract: fio.token 	<br>
+Hash: 6909cc89e46c118b7d5cc205e281b69397c77d4f9c675fb389a5fa3982e1503e<br>
+
 ## 2.1.0
 <b>Contract:</b> eosio.msig <br>
 <b>Hash:</b> f9eaecc20eeea9705e5e5a81777244281a4770e8ff8b377d76d032ad3163ca81 <br>
