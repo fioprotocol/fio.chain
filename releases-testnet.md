@@ -1,5 +1,12 @@
 # Testnet Release History
 
+## 2.2.1
+
+Contract: fio.address 	<br>
+Hash: 55fddc9aacdfbbdf7beccdcd090d1a7124f2db51558896a194cd69980cdf17eb<br>
+Contract: fio.token 	<br>
+Hash: 65a9fd79b787c9dca5b3636f75815359ad0c4289c2a70eca04fd2247c2f65aa5<br>
+
 ## 2.2.0
 
 Contract: fio.address 	<br>
