@@ -1,5 +1,16 @@
 # Testnet Release History
 
+
+## v2.2.2-rc1
+
+Contract: fio.address 	<br>
+setabi for fio.address <br>
+Hash: 1021f32a8cb5b2b894107204b1601e3d55d58cb3f1eddb4de85f30992579fd53<br>
+Contract: fio.token 	<br>
+Hash: 85e057957fb3e4a3eef05518f586c155fac0fef8c26fc364fda614b7511b6dd1<br>
+Contract: fio.system 	<br>
+Hash: efc579769f663b838101c8ed5cbc493edd83bc4505f1c6677bcfdd57204b8395<br>
+
 ## 2.2.1
 
 Contract: fio.address 	<br>
