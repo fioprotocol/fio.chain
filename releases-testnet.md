@@ -1,7 +1,7 @@
 # Testnet Release History
 
 
-## 2.2.2
+## v2.2.2-rc1
 
 Contract: fio.address 	<br>
 setabi for fio.address
