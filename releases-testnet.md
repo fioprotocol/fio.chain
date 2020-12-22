@@ -4,7 +4,7 @@
 ## v2.2.2-rc1
 
 Contract: fio.address 	<br>
-setabi for fio.address
+setabi for fio.address <br>
 Hash: 1021f32a8cb5b2b894107204b1601e3d55d58cb3f1eddb4de85f30992579fd53<br>
 Contract: fio.token 	<br>
 Hash: 85e057957fb3e4a3eef05518f586c155fac0fef8c26fc364fda614b7511b6dd1<br>
