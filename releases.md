@@ -20,7 +20,6 @@ Hash: 811bd423b5d3ba3ac4760e15acfa298fa2b9896b319812a40019b37b3ecfb450 <br>
 CDT: fio.cdt (1.5.x) <br>
 Git Commit: cf75c0233fef966696298040d8302c714749d221
 
-
 Date: 2021-01-13 <br>
 Contract: fio.token <br>
 Hash: f20c3d91844682c1ac035fee1509f1c91a934122e372ac6df45594bb3f3f171e <br>
