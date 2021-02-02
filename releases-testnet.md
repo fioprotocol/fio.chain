@@ -1,6 +1,6 @@
 # Testnet Release History
 
-## v2.3.2
+## v2.3.2-rc1
 
 Contract: fio.reqobt 	<br>
 Hash: acf8c14120e6930948e8977e9f7472054fb87066fd15da7ab1b4e5970d6885f5<br>
