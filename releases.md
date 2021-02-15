@@ -1,3 +1,12 @@
+## v2.3.2
+
+Date: 2021-02-15 <br>
+Contract: fio.reqobt <br>
+setabi for fio.reqobt <br>
+Hash: acf8c14120e6930948e8977e9f7472054fb87066fd15da7ab1b4e5970d6885f5 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 18d326c2011e27c04f25de41707b7e715c24fc67
+
 ## v2.3.0
 
 Date: 2021-01-13 <br>
