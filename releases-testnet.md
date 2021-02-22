@@ -1,5 +1,10 @@
 # Testnet Release History
 
+## v2.3.3-rc1
+
+Contract: fio.treasury 	<br>
+Hash: 5c50bf10f6aa07b5df11c9874c72f04a80622c1eaaf0a2b12bea4a9e010369b9<br>
+
 ## v2.3.2-rc1
 
 Contract: fio.reqobt 	<br>
