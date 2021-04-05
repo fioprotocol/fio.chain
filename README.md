@@ -90,6 +90,7 @@ https://fio.blockpane.com
 https://hyperion.fio.eosdetroit.io
 https://api.fiosweden.org
 https://fio.eosphere.io
+https://fio.cryptolions.io
 ```
 
 ### FIO API
