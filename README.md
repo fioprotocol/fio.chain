@@ -80,6 +80,7 @@ https://fio.greymass.com
 https://fio.eosphere.io
 https://api.fiosweden.org
 https://fio.eosphere.io
+https://fio.blockpane.com
 ```
 
 ### Hyperion
