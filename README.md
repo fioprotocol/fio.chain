@@ -123,3 +123,10 @@ https://fio.eostribe.io
 https://fio-za.eostribe.io
 https://fio-bp.dmail.co
 ```
+
+### Snapshots
+
+```
+https://snapshots.eosphere.io
+https://fio.snapshots.eossweden.org
+```
