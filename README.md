@@ -123,3 +123,19 @@ https://fio.eostribe.io
 https://fio-za.eostribe.io
 https://fio-bp.dmail.co
 ```
+
+### FIO Testnet API
+
+```
+https://fiotestnet.blockpane.com
+https://fiotestnet.greymass.com
+https://testnet.fio.eosdetroit.io
+https://test.fio.eosusa.news
+https://api.fiotest.alohaeos.com
+https://api.fiotest.currencyhub.io
+https://testnet.fioprotocol.io
+https://api.testnet.fiosweden.org
+https://fio-test.eos.barcelona
+https://fiotestnet.ledgerwise.io
+https://fio-testnet.eosblocksmith.io
+```
