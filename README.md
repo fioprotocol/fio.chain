@@ -139,3 +139,10 @@ https://fio-test.eos.barcelona
 https://fiotestnet.ledgerwise.io
 https://fio-testnet.eosblocksmith.io
 ```
+
+### Snapshots
+
+```
+https://snapshots.eosphere.io
+https://fio.snapshots.eossweden.org
+```
