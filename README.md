@@ -41,7 +41,7 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
 ```
 p2p-peer-address = fio.eu.eosamsterdam.net:9956 # (bp@eosamsterdam)
 p2p-peer-address = fio.eosdac.io:6876 # eosDAC (bp@thedac)
-p2p-peer-address = fiopeer1.nodeone.io:6981 # NodeOne (fionodeonebp@nodeone)
+p2p-peer-address = peer-fio.nodeone.network:9874 # NodeOne (fionodeonebp@nodeone)
 p2p-peer-address = peer.fio.alohaeos.com:9876 # Aloha EOS (bp@alohaeos)
 p2p-peer-address = peer1-fio.eosphere.io:9876 # EOSphere (bp@eosphere)
 p2p-peer-address = peer2-fio.eosphere.io:9876 # EOSphere (bp@eosphere)
@@ -61,7 +61,6 @@ p2p-peer-address = fio.cryptolions.io:7987 # CryptoLions (bp@cryptolions)
 p2p-peer-address = peer.fio-mainnet.eosblocksmith.io:5090 # Blocksmith ( blocksmith@blocksmith )
 p2p-peer-address = p2p.fio.services:9876 # Gandalf ( gandalf@grey )
 p2p-peer-address = peer.fio.currencyhub.io:9876 # Currency Hub (bp@thecurrencyhub)
-p2p-peer-address = fio.mycryptoapi.com:9876 # MyCrypto (bp@mycrypto)
 p2p-peer-address = fiop2p.eoscannon.io:6789 # EOSCannon (bp@eoscannon)
 p2p-peer-address = fio.eosdublin.io:9976 # eosDublin (bp@eosdublin)
 p2p-peer-address = fio.guarda.co:9976 #Guarda Wallet (bp@guardaw)
@@ -98,7 +97,7 @@ https://fio.cryptolions.io
 ```
 https://fio.eu.eosamsterdam.net
 https://fio.eosdac.io
-https://fioapi.nodeone.io
+https://api-fio.nodeone.network:8344
 https://fio.eosphere.io
 https://fio.eosrio.io
 https://fio.acherontrading.com
@@ -138,6 +137,7 @@ https://api.testnet.fiosweden.org
 https://fio-test.eos.barcelona
 https://fiotestnet.ledgerwise.io
 https://fio-testnet.eosblocksmith.io
+https://fio-bp.dmail.co:7777
 ```
 
 ### Snapshots
@@ -145,4 +145,5 @@ https://fio-testnet.eosblocksmith.io
 ```
 https://snapshots.eosphere.io
 https://fio.snapshots.eossweden.org
+https://snap.blockpane.com
 ```
