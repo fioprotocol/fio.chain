@@ -3,7 +3,7 @@
 ## v2.3.4-rc2
 
 Contract: fio.reqobt 	<br>
-Hash: 8ba8b37414d174fa2deb70a2d8c854a71ea2d828d7a7c04e8f4fbdadbd135c4c<br>
+Hash: c0509758a4d4361521e03bd9811ec7fe6b42c2f1b79b833e50ae7559e7a4a957<br>
 
 
 ## v2.3.4-rc1
