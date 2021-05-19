@@ -1,3 +1,10 @@
+## v2.3.4
+
+Date: 2021-05-19 <br>
+Contract: fio.reqobt <br>
+Hash: c0509758a4d4361521e03bd9811ec7fe6b42c2f1b79b833e50ae7559e7a4a957 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: c248ed8a92cdf8637796cb3ffa42c5c28e1589b5
 
 ## v2.3.3
 
