@@ -1,3 +1,23 @@
+## v2.3.5
+
+Date: 2021-05-30 <br>
+Contract: fio.reqobt <br>
+Hash: cd54f179eb5913984af88cc589ec527396041bd63e2094ffb143c483e2f0c1da <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 0295e80fdd737babce64d28fa530e976a2ba3517
+
+Date: 2021-05-30 <br>
+Contract: fio.address <br>
+Hash: 183b0410eb9d6071ca741a94da36502eab4d808ac60a6432cae1329ca86c2a64 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 0295e80fdd737babce64d28fa530e976a2ba3517
+
+Date: 2021-05-30 <br>
+Contract: fio.system <br>
+Hash: bf2cf9c963c483263e279d1a2f3f968a65a5c6db86af99bb9e5d7a2d2840cc12 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 0295e80fdd737babce64d28fa530e976a2ba3517
+
 ## v2.3.3
 
 Date: 2021-03-01 <br>
