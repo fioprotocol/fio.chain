@@ -1,3 +1,10 @@
+## v2.4.1
+
+Date: 2021-06-29 <br>
+Contract: fio.system <br>
+Hash: 48d1aa485d8ad3b21d5a048444c7100a1f5dc869a9c5ce1b77cc42d10c26bab2 <br>
+Git Commit: 67b686637247fa74168f99f23661b1331765f21a
+
 ## v2.4.0
 
 Date: 2021-06-29 <br>
