@@ -1,5 +1,10 @@
 # Testnet Release History
 
+## v2.5.0
+
+Contract: fio.address 	<br>
+Hash: b322993705cfac510a2f0a754cf6df94ee8744e9360905714e704b63f934bc99<br>
+
 ## v2.5.0-rc2
 
 Contract: fio.address 	<br>
