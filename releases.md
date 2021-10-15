@@ -20,7 +20,7 @@ Git Commit: 45140b11b370d0a5a107b64c917db23c22125e3c
 
 Date: 2021-10-14 <br>
 Contract: fio.treasury  <br>
-Hash: 0c997d252406dbef152c3ba38378462aad4e090fb81334fd4c496f8a568ce66d <br>
+Hash: b8831584d5e304d26518ca551fd8b474e3fd7daabd0b9acf24a0c8659803e942 <br>
 CDT: fio.cdt (1.5.x) <br>
 Git Commit: 45140b11b370d0a5a107b64c917db23c22125e3c
 
