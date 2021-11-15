@@ -1,7 +1,7 @@
 # Testnet Release History
 
 
-## v2.6.0
+## v2.6.0-rc1
 
 Contract: fio.treasury 	<br>
 Hash: 3b4ace746a3d9e6aa7f6f39ed29596956b111aa6dfe93db6b40bc1447c47230a<br>
