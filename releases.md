@@ -14,7 +14,7 @@ Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
 
 Date: 2021-12-29 <br>
 Contract: fio.staking  <br>
-Hash: 743eac5283c74c3dc30feaf27486104aabf182cd44437fbee827035a299e52bd <br>
+Hash: efff312f5c6118fc1c5306848c8e8b32c240f0f7e0d176f03dd609d9c4bfb9cb <br>
 CDT: fio.cdt (1.5.x) <br>
 Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
 
