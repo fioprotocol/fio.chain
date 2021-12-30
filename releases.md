@@ -1,3 +1,59 @@
+## v2.6.0
+
+Date: 2021-12-29 <br>
+Contract: fio.reqobt <br>
+Hash: 10b5c26d6dec4da4cf43e5c966c65d437af3fe9fec76887fc3d4187c581e84b1 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.treasury  <br>
+Hash: 3b4ace746a3d9e6aa7f6f39ed29596956b111aa6dfe93db6b40bc1447c47230a <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.staking  <br>
+Hash: efff312f5c6118fc1c5306848c8e8b32c240f0f7e0d176f03dd609d9c4bfb9cb <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.tpid  <br>
+Hash: c5daf656ce601b79ba7f9c6c45fc4b4a7d7617ad38f75e2e68b574bce88d9cee <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.token  <br>
+Hash: 4f7f0689c310a5d2be935c049a406dbf65868119bd73068d37849cf452a00958 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.system  <br>
+Hash: 76a875a61a6db617cb4c3ba239915a106cbf25589dcb408f6a974b1995ed5813 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.fee  <br>
+Hash: 078282d69cbb956849d6c068f7a019643f45d09e54e927e97669875838a93ef8 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.address  <br>
+Hash: c3548e8140e10861069a259af2a158f5ae5142adacbbedae78407e46547de4c0 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
+Date: 2021-12-29 <br>
+Contract: fio.msig  <br>
+Hash: 2013d5305edb1abd2bfedfa275bc331cdbba40e6276b40983a10578ac741a39a <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: fa07399925e322f1016a4f54c2937cb5cd593910
+
 ## v2.5.0
 
 Date: 2021-10-14 <br>
