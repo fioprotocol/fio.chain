@@ -1,3 +1,17 @@
+## v2.6.1
+
+Date: 2022-01-10 <br>
+Contract: fio.token <br>
+Hash: 4257df3c67a0710229c1b1f80008ab972443502182d00ac284da99a5f77a0fd4 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 50365706fba4274f97ec95e9b00c535b1eb4d937
+
+Date: 2021-12-29 <br>
+Contract: fio.staking  <br>
+Hash: 79270dbb18c34e10958d03aa72bf7decded78a1c5fe497af7aeb29b3fc211c80 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 50365706fba4274f97ec95e9b00c535b1eb4d937
+
 ## v2.6.0
 
 Date: 2021-12-29 <br>
