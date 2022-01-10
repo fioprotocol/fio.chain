@@ -1,5 +1,14 @@
 # Testnet Release History
 
+
+## v2.6.1
+
+Contract: fio.token 	<br>
+Hash: 4257df3c67a0710229c1b1f80008ab972443502182d00ac284da99a5f77a0fd4<br>
+
+Contract: fio.staking 	<br>
+Hash: 79270dbb18c34e10958d03aa72bf7decded78a1c5fe497af7aeb29b3fc211c80<br>
+
 ## v2.6.0-rc3
 
 Contract: fio.staking 	<br>
