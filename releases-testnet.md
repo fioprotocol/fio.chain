@@ -20,6 +20,9 @@ Hash: f1ef3aa0f73d5e9f7a04fee1c5830075f8f8d497b1d96dbcab204c4474f5592e<br>
 Contract: fio.staking 	<br>
 Hash: bb5e50708888a4fa0f04fb1ef2089435a478198bf7c92889d757a4cb68cb04ba<br>
 
+Contract: fio.escrow 	<br>
+Hash: 8281f88a99fba288c34b1e9c2c3d87be4271f583f0f8e5af27d72f84812dafa3<br>
+
 ## v2.6.1
 
 Contract: fio.token 	<br>
