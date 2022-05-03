@@ -5,6 +5,9 @@
 Contract: fio.escrow 	<br>
 Hash: e2ab3248d564c7731d61661cf500dd265fbce7381a710bdea731af7cada652ba<br>
 
+Contract: fio.tpid<br>
+Hash: f9bfa79ef969423a270ad59059fd080574b8eabce6f9672e473262a64f8ebc2f<br>
+
 ## v2.7.0-rc1
 
 Contract: fio.address 	<br>
