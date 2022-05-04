@@ -1,5 +1,13 @@
 # Testnet Release History
 
+## v2.7.1-rc1
+
+Contract: fio.escrow 	<br>
+Hash: b7d2114978bb27207ff69a47d880d4897ab7dbc33566c3a5dd26880c4ec68d46<br>
+
+Contract: fio.tpid<br>
+Hash: 32814794f73c6779aefcfc8fd2d3f7ac67227d6a3b94fa2ac52add1f58481c67<br>
+
 ## v2.7.0-rc1
 
 Contract: fio.address 	<br>
