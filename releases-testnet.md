@@ -3,10 +3,10 @@
 ## v2.7.1-rc1
 
 Contract: fio.escrow 	<br>
-Hash: e2ab3248d564c7731d61661cf500dd265fbce7381a710bdea731af7cada652ba<br>
+Hash: b7d2114978bb27207ff69a47d880d4897ab7dbc33566c3a5dd26880c4ec68d46<br>
 
 Contract: fio.tpid<br>
-Hash: f9bfa79ef969423a270ad59059fd080574b8eabce6f9672e473262a64f8ebc2f<br>
+Hash: 32814794f73c6779aefcfc8fd2d3f7ac67227d6a3b94fa2ac52add1f58481c67<br>
 
 ## v2.7.0-rc1
 
