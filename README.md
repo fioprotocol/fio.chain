@@ -49,7 +49,7 @@ p2p-peer-address = fiomainnet.everstake.one:7770 # Everstake (bp@everstake)
 p2p-peer-address = fio.eosrio.io:8122 # EOS Rio (br@eosrio)
 p2p-peer-address = fio.acherontrading.com:9876 # Acheron Trading (bp@acherontrading)
 p2p-peer-address = fiop2p.eos.barcelona:3876 # eosBarcelona (bp@eosbarcelona)
-p2p-peer-address = p2p.fio.eosdetroit.io:1337 # EOS Detroit (eosio@detroit)
+p2p-peer-address = p2p.fio.detroitledger.tech:1337 # Detroit Ledger Technologies(EOS Detroit) (eosio@detroit)
 p2p-peer-address = p2p.fio.zenblocks.io:9866 # ZenBlocks (bp@zenblocks)
 p2p-peer-address = p2p.blockpane.com:9876 # Blockpane
 p2p-peer-address = p2p.fio.genereos.io:9876 # (bp@genereos)
@@ -75,7 +75,7 @@ p2p-peer-address = fio-bp.dmail.co:7676 # dmail.co (bp@dmaildotco)
 ### History v1
 
 ```
-https://api.fio.eosdetroit.io
+https://api.fio.detroitledger.tech
 https://fio.greymass.com
 https://fio.eosphere.io
 https://api.fiosweden.org
@@ -86,7 +86,7 @@ https://fio.blockpane.com
 ### Hyperion
 
 ```
-https://hyperion.fio.eosdetroit.io
+https://hyperion.fio.detroitledger.tech
 https://api.fiosweden.org
 https://fio.eosphere.io
 https://fio.cryptolions.io
@@ -102,7 +102,7 @@ https://fio.eosphere.io
 https://fio.eosrio.io
 https://fio.acherontrading.com
 https://fio.eos.barcelona
-https://api.fio.eosdetroit.io
+https://api.fio.detroitledger.tech
 https://fio.zenblocks.io
 https://api.fio.alohaeos.com
 https://fio.greymass.com
@@ -128,7 +128,6 @@ https://fio-bp.dmail.co
 ```
 https://fiotestnet.blockpane.com
 https://fiotestnet.greymass.com
-https://testnet.fio.eosdetroit.io
 https://test.fio.eosusa.news
 https://api.fiotest.alohaeos.com
 https://api.fiotest.currencyhub.io
