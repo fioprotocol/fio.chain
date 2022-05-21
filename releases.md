@@ -12,41 +12,49 @@ Hash: 32814794f73c6779aefcfc8fd2d3f7ac67227d6a3b94fa2ac52add1f58481c67 <br>
 CDT: fio.cdt (1.5.x) <br>
 Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
 
-Date: 2022-05-20 <br>
+## v2.7.0
+
+Date: 2022-04-12 <br>
 Contract: fio.address <br>
 Hash: aa1077380460fe73cb58ad9d108b09d4fb80aba7fe388ea9f1a88eae8b9ff3cf <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
-Date: 2022-05-20 <br>
+Date: 2022-04-12 <br>
 Contract: fio.request.obt <br>
 Hash: c6ccb6b541d738ff7d111eb5cd59304c84b584c65695d6d591d3e5340bfa2dea <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
-Date: 2022-05-20 <br>
+Date: 2022-04-12 <br>
 Contract: fio.system <br>
 Hash: b8b6a0287a3df4c758a5ac2b5203ed14841bb232e8ae658979b458bbac60ac7c <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
-Date: 2022-05-20 <br>
+Date: 2022-04-12 <br>
 Contract: fio.token <br>
 Hash: 894a23edc27760fc2ce66932aad8edfde0b4593b935d22adcbdf21c0b9d2685e <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
-Date: 2022-05-20 <br>
+Date: 2022-04-12 <br>
 Contract: fio.treasury <br>
 Hash: f1ef3aa0f73d5e9f7a04fee1c5830075f8f8d497b1d96dbcab204c4474f5592e <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
-Date: 2022-05-20 <br>
+Date: 2022-04-12 <br>
 Contract: fio.staking <br>
 Hash: bb5e50708888a4fa0f04fb1ef2089435a478198bf7c92889d757a4cb68cb04ba <br>
 CDT: fio.cdt (1.5.x) <br>
-Git Commit: 7c4b9f59140973f20e38a0bc729b54af48e9a271
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
+
+Date: 2022-04-12 <br>
+Contract: fio.escrow <br>
+Hash: 8281f88a99fba288c34b1e9c2c3d87be4271f583f0f8e5af27d72f84812dafa3 <br>
+CDT: fio.cdt (1.5.x) <br>
+Git Commit: 108b42fc4cbbe8969fe089f9665bad00b11ac4b6
 
 ## v2.6.1
 
