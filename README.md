@@ -103,7 +103,6 @@ https://fio.eosrio.io
 https://fio.acherontrading.com
 https://fio.eos.barcelona
 https://api.fio.detroitledger.tech
-https://fio.zenblocks.io
 https://api.fio.alohaeos.com
 https://fio.greymass.com
 https://fio.genereos.io
@@ -112,7 +111,6 @@ https://fio.eosargentina.io
 https://fio.cryptolions.io
 https://fio-mainnet.eosblocksmith.io
 https://api.fio.currencyhub.io
-https://fio.eoscannon.io
 https://fio.eosdublin.io
 https://api.fiosweden.org
 https://api.fio.greeneosio.com
