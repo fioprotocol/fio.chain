@@ -1,5 +1,31 @@
 # Testnet Release History
 
+## v2.8.0-rc1
+
+Contract: fio.system 	<br>
+Hash: 1e6fe63a9982a261ce09937875d3415257bb6c9ae84ec917f7882e0a87657d8d<br>
+
+Contract: fio.address 	<br>
+Hash: deb8ceaeecd45632d8bffc9bebd5c9a7b0220bbc849af2cecbf24988a42fa7b9<br>
+
+Contract: fio.request.obt 	<br>
+Hash: 0c08ce68d28c896653ea71af481af2161e581be0073d6ee9222d679d998c915a<br>
+
+Contract: fio.token 	<br>
+Hash: 900cffbf8a2f47cf98135a3038fda4b9aa6abb78132e1a8aabaf70c25f1e512f<br>
+
+Contract: fio.tpid 	<br>
+Hash: 77e5d4d9a80e4e5845fea49730a2a4a0199365f01692e47cf4e973597619c34a<br>
+
+Contract: fio.treasury 	<br>
+Hash: 32d7df68a2fe460c159a91fc3ad49e55a82e1d9cffb23317b8534d14df7e1792<br>
+
+Contract: fio.staking 	<br>
+Hash: b04c401d09097181ae59b35d8ac1b4e05af24327605e1936dfe0c7741feb39be<br>
+
+Contract: fio.escrow 	<br>
+Hash: 529658014321a22f47d3f8921733b4bc74e2b043d7ea18a07797d037abf762b3<br>
+
 ## v2.7.1-rc1
 
 Contract: fio.escrow 	<br>
