@@ -45,7 +45,6 @@ p2p-peer-address = peer-fio.nodeone.network:9874 # NodeOne (fionodeonebp@nodeone
 p2p-peer-address = peer.fio.alohaeos.com:9876 # Aloha EOS (bp@alohaeos)
 p2p-peer-address = peer1-fio.eosphere.io:9876 # EOSphere (bp@eosphere)
 p2p-peer-address = peer2-fio.eosphere.io:9876 # EOSphere (bp@eosphere)
-p2p-peer-address = fiomainnet.everstake.one:7770 # Everstake (bp@everstake)
 p2p-peer-address = fio.eosrio.io:8122 # EOS Rio (br@eosrio)
 p2p-peer-address = fio.acherontrading.com:9876 # Acheron Trading (bp@acherontrading)
 p2p-peer-address = fiop2p.eos.barcelona:3876 # eosBarcelona (bp@eosbarcelona)
@@ -106,7 +105,7 @@ https://api.fio.detroitledger.tech
 https://api.fio.alohaeos.com
 https://fio.greymass.com
 https://fio.genereos.io
-https://fio.eosusa.news
+https://fio.eosusa.io
 https://fio.eosargentina.io
 https://fio.cryptolions.io
 https://fio-mainnet.eosblocksmith.io
@@ -117,7 +116,6 @@ https://api.fio.greeneosio.com
 https://fioapi.ledgerwise.io
 https://api.fio.services
 https://fio.eostribe.io
-https://fio-za.eostribe.io
 https://fio-bp.dmail.co
 ```
 
@@ -126,7 +124,7 @@ https://fio-bp.dmail.co
 ```
 https://fiotestnet.blockpane.com
 https://fiotestnet.greymass.com
-https://test.fio.eosusa.news
+https://test.fio.eosusa.io
 https://api.fiotest.alohaeos.com
 https://api.fiotest.currencyhub.io
 https://testnet.fioprotocol.io
