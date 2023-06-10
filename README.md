@@ -67,6 +67,7 @@ p2p-peer-address = p2p.fiosweden.org:9376 # sw/eden (bp@fiosweden)
 p2p-peer-address = p2p1.fio.greeneosio.com:9876 # GreenEOSIO (bp@greeneosio)
 p2p-peer-address = fiop2p.ledgerwise.io:25877 # Ledgerwise (bp@ledgerwise)
 p2p-peer-address = fio-bp.dmail.co:7676 # dmail.co (bp@dmaildotco)
+p2p-peer-address = p2p.fio.blocksindia.com:6876 (bp@blocksindia)
 ```
 
 ## API endpoints
@@ -117,6 +118,7 @@ https://fioapi.ledgerwise.io
 https://api.fio.services
 https://fio.eostribe.io
 https://fio-bp.dmail.co
+https://api.fio.blocksindia.com 
 ```
 
 ### FIO Testnet API
