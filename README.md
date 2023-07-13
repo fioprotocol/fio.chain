@@ -95,6 +95,7 @@ https://fio.cryptolions.io
 ### FIO API
 
 ```
+https://fio.blockpane.com
 https://fio.eu.eosamsterdam.net
 https://fio.eosdac.io
 https://api-fio.nodeone.network:8344
