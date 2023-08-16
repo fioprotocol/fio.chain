@@ -53,7 +53,7 @@ p2p-peer-address = p2p.fio.zenblocks.io:9866 # ZenBlocks (bp@zenblocks)
 p2p-peer-address = p2p.blockpane.com:9876 # Blockpane
 p2p-peer-address = p2p.fio.genereos.io:9876 # (bp@genereos)
 p2p-peer-address = fio.greymass.com:49876 # Greymass (bp@greymass)
-p2p-peer-address = fio.eosusa.news:9886 # EOSUSA (bp@eosusa)
+p2p-peer-address = fio.p2p.eosusa.io:9880 # EOSUSA (bp@eosusa)
 p2p-peer-address = p2p.fioprotocol.io:3856  # Foundation for Interwallet Operability
 p2p-peer-address = p2p.fio.eosargentina.io:1984 # EOS Argentina (fio@eosargentina)
 p2p-peer-address = fio.cryptolions.io:7987 # CryptoLions (bp@cryptolions)
@@ -81,6 +81,7 @@ https://fio.eosphere.io
 https://api.fiosweden.org
 https://fio.eosphere.io
 https://fio.blockpane.com
+https://fio.eosusa.io
 ```
 
 ### Hyperion
@@ -90,6 +91,7 @@ https://hyperion.fio.detroitledger.tech
 https://api.fiosweden.org
 https://fio.eosphere.io
 https://fio.cryptolions.io
+https://fio.eosusa.io
 ```
 
 ### FIO API
@@ -144,4 +146,5 @@ https://fio-bp.dmail.co:7777
 https://snapshots.eosphere.io
 https://fio.snapshots.eossweden.org
 https://snap.blockpane.com
+https://snapshots.eosusa.io
 ```
