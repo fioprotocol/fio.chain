@@ -49,7 +49,6 @@ p2p-peer-address = fio.eosrio.io:8122 # EOS Rio (br@eosrio)
 p2p-peer-address = fio.acherontrading.com:9876 # Acheron Trading (bp@acherontrading)
 p2p-peer-address = fiop2p.eos.barcelona:3876 # eosBarcelona (bp@eosbarcelona)
 p2p-peer-address = p2p.fio.detroitledger.tech:1337 # Detroit Ledger Technologies(EOS Detroit) (eosio@detroit)
-p2p-peer-address = p2p.fio.zenblocks.io:9866 # ZenBlocks (bp@zenblocks)
 p2p-peer-address = p2p.blockpane.com:9876 # Blockpane
 p2p-peer-address = p2p.fio.genereos.io:9876 # (bp@genereos)
 p2p-peer-address = fio.greymass.com:49876 # Greymass (bp@greymass)
@@ -117,7 +116,6 @@ https://api.fio.currencyhub.io
 https://fio.eosdublin.io
 https://api.fiosweden.org
 https://api.fio.greeneosio.com
-https://fioapi.ledgerwise.io
 https://api.fio.services
 https://fio.eostribe.io
 https://fio-bp.dmail.co
