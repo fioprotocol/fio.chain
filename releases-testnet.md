@@ -1,4 +1,39 @@
 # Testnet Release History
+## v2.9.0-rc1
+#### ABI
+| Contract | Hash | Update |
+| -------- | ---- | ------ |
+| eosio.msig | 3af458ff9d51886bcc9f78defd79a3647603b96420e5f16a2bae3297483f4513 |  |
+| eosio.wrap | d725f18bd716feea7ef33e7c12b5e1506fc526b713613f3a50d9c243195ef07c |  |
+| fio.system | 7a70ab8e6627fd52a8bd231ceade92716ca23250e166468ce016fde16e0ea62e | * |
+| fio.address | 50fb8fc06375e525d6d516ec5a330373a023351090a0f508ba94dbbedd706a7b | * |
+| fio.escrow | e6cefdcf616dbc882217c9cedba76daa4076ee016c5080b8cf829c1414c296be |  |
+| fio.fee | 90b15dc1e8985eef6b358b06a9886c435b5f304724f31a28de58178f86061fe0 |  |
+| fio.oracle | 90a4e3e3458630b735b848b89f41ecaeb561017f531ea92d792f20d71419da71 |  |
+| fio.perms | b4c843edc77d01d1dd174aaee472523650ccb8f4032930e8e2e8c489ab9ad383 | * |
+| fio.request.obt | 09bbbdd2d6982ea24665150373ce07f371fee05786f53c5bd867263d9b6aea1c |  |
+| fio.staking | 9e2b839e35a567f5e86e3ed7aa63c8f7b025606d2a89ac558f5bf7eaab622904 |  |
+| fio.token | 776f99a74d28286512b7e00e5642c5a226412c6fffb25733c8fb18e93d6a03c4 |  |
+| fio.tpid | c10ac4f3037f80d430d5f3dbbc6bb3be7734d28a46b8a203dc72f058eb4eb644 |  |
+| fio.treasury | b183e2086f1be9918c1a44fffee16a8cccac325f619d640de21dec3cf9089827 |  |
+
+#### WASM
+| Contract | Hash | Update |
+| -------- | ---- | ------ |
+| eosio.msig | f4827d64e1f32dd7a5b879ebe8e7d6639e8593a690119ef9a65fb750ea82c2fc | * |
+| eosio.wrap | 4d9b06f62cb3f7666844883bf461535b7c04015f5fb28ad604a0bb0e952fd27d |  |
+| fio.system | c9e56942f59c0fc4e411d888a860a193326e3ee9aeb9e68bb4549b1be526ff0c | * |
+| fio.address | 72c258fbcb0b328960bdbc4fc521d76cc53e5517bb5f5f2bf991d08030ddae6b | * |
+| fio.escrow | 9292ab4d74f55eb649decace4ab5a8337c55605090e3d9a8d53342dafb270a06 | * |
+| fio.fee | 078282d69cbb956849d6c068f7a019643f45d09e54e927e97669875838a93ef8 |  |
+| fio.oracle | ca22e502f0a896006e0305ab753846ea2fe6f9bc2f17fa73bb7beadced7ab62e | * |
+| fio.perms | ecfa295ab3ba2447fc517fd3750385e15ce154917e2431097c296ba86f76015a | * |
+| fio.request.obt | aa24b58384b385843cfd4149d0e0e13818825f262fe9d15d362ab4a040b81f90 | * |
+| fio.staking | df5039e443090e94f37a4006d0c72a713780d1df07abf011cb954a28999a19c8 | * |
+| fio.token | c9c904fed2f89e9813073d3da37f511eeaa2157fc82b04cfbef9bd7404385d69 | * |
+| fio.tpid | 80232eb0842e3d0b8320b6efa76a5f877fc63f06a38166ad73e5d726f8590420 | * |
+| fio.treasury | af6cdeca53561cef71ff7b241fa9f3c99db3e15033a577ae0de62fad6a9f4395 | * |
+
 ## v2.8.1-rc1
 #### ABI
 | Contract | Hash | Update |
