@@ -22,7 +22,7 @@
 | -------- | ---- | ------ |
 | eosio.msig | f4827d64e1f32dd7a5b879ebe8e7d6639e8593a690119ef9a65fb750ea82c2fc | * |
 | eosio.wrap | 4d9b06f62cb3f7666844883bf461535b7c04015f5fb28ad604a0bb0e952fd27d |  |
-| fio.system | 4053a572330be0c4fab0c791747fe5da0a4f45fea880d27dd707b0fede06e05c | * |
+| fio.system | c9e56942f59c0fc4e411d888a860a193326e3ee9aeb9e68bb4549b1be526ff0c | * |
 | fio.address | 72c258fbcb0b328960bdbc4fc521d76cc53e5517bb5f5f2bf991d08030ddae6b | * |
 | fio.escrow | 9292ab4d74f55eb649decace4ab5a8337c55605090e3d9a8d53342dafb270a06 | * |
 | fio.fee | 078282d69cbb956849d6c068f7a019643f45d09e54e927e97669875838a93ef8 |  |
