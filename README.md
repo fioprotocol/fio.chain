@@ -85,6 +85,7 @@ p2p-peer-address = fio-bp.dmail.co:7676                   # dmail.co (bp@dmaildo
 
 #### API
 ```
+https://fio.blockpane.com
 https://fio.eu.eosamsterdam.net
 https://fio.eosdac.io
 https://api-fio.nodeone.network:8344
@@ -104,10 +105,10 @@ https://api.fio.currencyhub.io
 https://fio.eosdublin.io
 https://api.fiosweden.org
 https://api.fio.greeneosio.com
-https://fioapi.ledgerwise.io
 https://api.fio.services
 https://fio.eostribe.io
 https://fio-bp.dmail.co
+https://api.fio.blocksindia.com 
 ```
 
 #### History - v1
