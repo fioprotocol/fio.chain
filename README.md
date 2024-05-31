@@ -133,7 +133,7 @@ https://fio.cryptolions.io
 #### P2P
 ```
 p2p-peer-address = peer.fiotest.alohaeos.com:9876 # Aloha EOS (alohaeos@fiotestnet)
-p2p-peer-address = fio-testnet.eosphere.io:9810
+p2p-peer-address = fio-testnet.eosphere.io:9876
 p2p-peer-address = p2p.blockpane.com:3856
 p2p-peer-address = testnet.fio.eosdetroit.io:1337
 p2p-peer-address = testnet.fioprotocol.io:1987
