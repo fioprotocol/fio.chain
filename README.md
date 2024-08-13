@@ -1,4 +1,4 @@
-# FIO *Net
+# FIO.*Net
 
 This repository contains various items pertaining to the FIO blockchain, its configuration, the location of historical and runtime state information, and api endpoints.
 
