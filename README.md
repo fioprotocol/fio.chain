@@ -1,4 +1,4 @@
-# FIO Chain
+# FIO.Chain
 
 This repository contains various items pertaining to the FIO blockchain, its configuration, snapshot & p2p endpoints historical and runtime state information, and api endpoints.
 
