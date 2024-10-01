@@ -1,6 +1,6 @@
-# FIO.*Net
+# FIO Chain
 
-This repository contains various items pertaining to the FIO blockchain, its configuration, the location of historical and runtime state information, and api endpoints.
+This repository contains various items pertaining to the FIO blockchain, its configuration, snapshot & p2p endpoints historical and runtime state information, and api endpoints.
 
 While this README contains a summary of most of that data, i.e. p2p endpoint data, individual files for that data are also version controlled and will be the most of date. For instance, see bp_data/mainnet_endpoints.json.
 
@@ -39,14 +39,6 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
     "max_ram_size": 34359738368
   }
 }
-```
-
-## Snapshots
-
-```
-https://snapshots.eosphere.io
-https://fio.snapshots.eossweden.org
-https://snap.blockpane.com
 ```
 
 ## Endpoints
