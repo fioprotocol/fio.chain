@@ -1,18 +1,40 @@
 # FIO.Chain
 
-This repository contains various items pertaining to the FIO blockchain, its configuration, snapshot & p2p endpoints historical and runtime state information, and api endpoints.
+This repository contains bootstrap information for FIO Chain.
 
-While this README contains a summary of most of that data, i.e. p2p endpoint data, individual files for that data are also version controlled and will be the most of date. For instance, see bp_data/mainnet_endpoints.json.
+# Mainnet
 
 ## Chain ID
 ```
 21dcae42c0182200e93f954a074011f9048a7624c6fe81d3c9541a614a88bd1c
 ```
-The chain id of the FIO blockchain may be validated using the get_info api call, specifically https://fio.blockpane.com/v1/chain/get_info.
 
-## Genesis
+## Endpoints
+### P2P
+* [https://fio.antelope.tools/endpoints](https://fio.antelope.tools/endpoints) (verified + easy copy)
+* [https://bpmonitor.fio.net/nodes?type=seed](https://bpmonitor.fio.net/nodes?type=seed)
 
-This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/fio
+### API
+* [https://bpmonitor.fio.net/nodes](https://bpmonitor.fio.net/nodes) (Verified, scored and includes description of services, e.g. V1 History and Hyperion)
+* [https://fio.antelope.tools/nodes](https://fio.antelope.tools/nodes) (Verified and includes description of services, e.g. V1 History and Hyperion)
+
+# Testnet
+## Chain ID
+```
+b20901380af44ef59c5918439a1f9a41d83669020319a80574b804a5f95cbd7e
+```
+
+## Endpoints
+### P2P
+* [https://fio-testnet.antelope.tools/endpoints](https://fio-testnet.antelope.tools/endpoints) (verified + easy copy)
+* [https://bpmonitor.fio.net/nodes?chain=Testnet&type=seed](https://bpmonitor.fio.net/nodes?chain=Testnet&type=seed)
+
+### API
+* [https://bpmonitor.fio.net/nodes?chain=Testnet](https://bpmonitor.fio.net/nodes?chain=Testnet) (Verified, scored and includes description of services, e.g. V1 History and Hyperion)
+* [https://fio-testnet.antelope.tools/nodes](https://fio-testnet.antelope.tools/nodes) (Verified and includes description of services, e.g. V1 History and Hyperion)
+
+# Genesis
+This is the genesis file for the FIO Mainnet.
 
 ```
 {
@@ -39,110 +61,4 @@ This is the genesis file for the FIO Mainnet of https://github.com/fioprotocol/f
     "max_ram_size": 34359738368
   }
 }
-```
-
-## Endpoints
-### MainNet
-#### P2P
-```
-p2p-peer-address = fio.eu.eosamsterdam.net:9956           # EOS Amsterdam (bp@eosamsterdam)
-p2p-peer-address = fio.eosdac.io:6876                     # eosDAC (bp@thedac)
-p2p-peer-address = peer-fio.nodeone.network:9874          # NodeOne (fionodeonebp@nodeone)
-p2p-peer-address = peer.fio.alohaeos.com:9876             # Aloha EOS (bp@alohaeos)
-p2p-peer-address = peer1-fio.eosphere.io:9876             # EOSphere (bp@eosphere)
-p2p-peer-address = peer2-fio.eosphere.io:9877             # EOSphere (bp@eosphere)
-p2p-peer-address = fio.eosrio.io:8122                     # EOS Rio (br@eosrio)
-p2p-peer-address = fio.acherontrading.com:9876            # Acheron Trading (bp@acherontrading)
-p2p-peer-address = fiop2p.eos.barcelona:3876              # eosBarcelona (bp@eosbarcelona)
-p2p-peer-address = p2p.fio.detroitledger.tech:1337        # Detroit Ledger Technologies/EOS Detroit (eosio@detroit)
-p2p-peer-address = p2p.fio.zenblocks.io:9866              # ZenBlocks (bp@zenblocks)
-p2p-peer-address = p2p.blockpane.com:9876                 # Blockpane (bp@blockpane)
-p2p-peer-address = p2p.fio.genereos.io:9876               # GenerEOS (bp@genereos)
-p2p-peer-address = fio.greymass.com:49876                 # Team Greymass (bp@greymass)
-p2p-peer-address = fio.eosusa.news:9886                   # EOSUSA (bp@eosusa)
-p2p-peer-address = p2p.fioprotocol.io:3856                # Foundation for Interwallet Operability
-p2p-peer-address = p2p.fio.eosargentina.io:1984           # EOS Argentina (fio@eosargentina)
-p2p-peer-address = fio.cryptolions.io:7987                # CryptoLions (bp@cryptolions)
-p2p-peer-address = peer.fio-mainnet.eosblocksmith.io:5090 # Blocksmith (blocksmith@blocksmith)
-p2p-peer-address = p2p.fio.services:9876                  # Gandalf (gandalf@grey)
-p2p-peer-address = peer.fio.currencyhub.io:9876           # CurrencyHub (bp@thecurrencyhub)
-p2p-peer-address = fiop2p.eoscannon.io:6789               # EOSCannon (bp@eoscannon)
-p2p-peer-address = fio.eosdublin.io:9976                  # eosDublin (bp@eosdublin)
-p2p-peer-address = fio.guarda.co:9976                     # Guarda Wallet (bp@guardaw)
-p2p-peer-address = p2p.fiosweden.org:9376                 # sw/eden (bp@fiosweden)
-p2p-peer-address = p2p1.fio.greeneosio.com:9876           # GreenEOSIO (bp@greeneosio)
-p2p-peer-address = fiop2p.ledgerwise.io:25877             # Ledgerwise (bp@ledgerwise)
-p2p-peer-address = fio-bp.dmail.co:7676                   # dmail.co (bp@dmaildotco)
-```
-
-#### API
-```
-https://fio.blockpane.com
-https://fio.eu.eosamsterdam.net
-https://fio.eosdac.io
-https://api-fio.nodeone.network:8344
-https://fio.eosphere.io
-https://fio.eosrio.io
-https://fio.acherontrading.com
-https://fio.eos.barcelona
-https://api.fio.detroitledger.tech
-https://api.fio.alohaeos.com
-https://fio.greymass.com
-https://fio.genereos.io
-https://fio.eosusa.io
-https://fio.eosargentina.io
-https://fio.cryptolions.io
-https://fio-mainnet.eosblocksmith.io
-https://api.fio.currencyhub.io
-https://fio.eosdublin.io
-https://api.fiosweden.org
-https://api.fio.greeneosio.com
-https://api.fio.services
-https://fio.eostribe.io
-https://fio-bp.dmail.co
-https://api.fio.blocksindia.com 
-```
-
-#### History - v1
-```
-https://api.fio.detroitledger.tech
-https://fio.greymass.com
-https://fio.eosphere.io
-https://api.fiosweden.org
-https://fio.eosphere.io
-https://fio.blockpane.com
-```
-
-#### History - Hyperion/v2
-```
-https://hyperion.fio.detroitledger.tech
-https://api.fiosweden.org
-https://fio.eosphere.io
-https://fio.cryptolions.io
-```
-
-### TestNet
-#### P2P
-```
-p2p-peer-address = peer.fiotest.alohaeos.com:9876 # Aloha EOS (alohaeos@fiotestnet)
-p2p-peer-address = fio-testnet.eosphere.io:9810
-p2p-peer-address = p2p.blockpane.com:3856
-p2p-peer-address = testnet.fio.eosdetroit.io:1337
-p2p-peer-address = testnet.fioprotocol.io:1987
-p2p-peer-address = fiotestnet.everstake.one:7770
-```
-
-#### API
-```
-https://fiotestnet.blockpane.com
-https://fiotestnet.greymass.com
-https://test.fio.eosusa.io
-https://api.fiotest.alohaeos.com
-https://api.fiotest.currencyhub.io
-https://testnet.fioprotocol.io
-https://api.testnet.fiosweden.org
-https://fio-test.eos.barcelona
-https://fiotestnet.ledgerwise.io
-https://fio-testnet.eosblocksmith.io
-https://fio-bp.dmail.co:7777
 ```
